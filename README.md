@@ -47,5 +47,3 @@ This project is a scalable system for generating music using AI. It is designed 
 - **Minimalism:**
     
     - All queue and task logic is inside PostgreSQL, without unnecessary dependencies.
-
-Translated with DeepL.com (free version)
